@@ -19,7 +19,8 @@
         "sensio/framework-extra-bundle": "~3.0",
         "sensio/generator-bundle": "~2.3",
         "incenteev/composer-parameter-handler": "~2.0",
-        "bamarni/symfony-console-autocomplete": "dev-master"
+        "bamarni/symfony-console-autocomplete": "dev-master",
+        "friendsofsymfony/user-bundle": "v1.3.3"
     },
     "scripts": {
         "post-install-cmd": [

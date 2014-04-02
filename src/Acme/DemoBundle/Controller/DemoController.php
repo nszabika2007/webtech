@@ -19,7 +19,7 @@ class DemoController extends Controller
      */
     public function indexAction()
     {
-        $a = 1;
+       
         return array();
     }
 

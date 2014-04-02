@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+SRC_DIR="`pwd`"
+cd "`dirname "$0"`"
+cd "../vendor/bamarni/symfony-console-autocomplete/bin"
+BIN_TARGET="`pwd`/autocomplete"
+cd "$SRC_DIR"
+"$BIN_TARGET" "$@"
